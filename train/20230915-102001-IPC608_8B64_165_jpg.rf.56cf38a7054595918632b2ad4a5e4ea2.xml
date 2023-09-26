@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>20230915-102001-IPC608_8B64_165_jpg.rf.56cf38a7054595918632b2ad4a5e4ea2.jpg</filename>
+	<path>20230915-102001-IPC608_8B64_165_jpg.rf.56cf38a7054595918632b2ad4a5e4ea2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sparus aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1372</xmin>
+			<xmax>1470</xmax>
+			<ymin>740</ymin>
+			<ymax>833</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1119</xmin>
+			<xmax>1487</xmax>
+			<ymin>827</ymin>
+			<ymax>1001</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>74</xmin>
+			<xmax>115</xmax>
+			<ymin>263</ymin>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1702</xmin>
+			<xmax>1758</xmax>
+			<ymin>1</ymin>
+			<ymax>17</ymax>
+		</bndbox>
+	</object>
+</annotation>
