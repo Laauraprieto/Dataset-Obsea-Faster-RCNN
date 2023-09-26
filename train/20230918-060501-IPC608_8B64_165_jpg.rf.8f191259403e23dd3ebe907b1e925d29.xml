@@ -1,0 +1,105 @@
+<annotation>
+	<folder></folder>
+	<filename>20230918-060501-IPC608_8B64_165_jpg.rf.8f191259403e23dd3ebe907b1e925d29.jpg</filename>
+	<path>20230918-060501-IPC608_8B64_165_jpg.rf.8f191259403e23dd3ebe907b1e925d29.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>668</xmin>
+			<xmax>863</xmax>
+			<ymin>44</ymin>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>364</xmin>
+			<xmax>404</xmax>
+			<ymin>1040</ymin>
+			<ymax>1050</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>261</xmin>
+			<xmax>302</xmax>
+			<ymin>1056</ymin>
+			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>355</xmin>
+			<xmax>401</xmax>
+			<ymin>1061</ymin>
+			<ymax>1075</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>444</xmin>
+			<xmax>478</xmax>
+			<ymin>1035</ymin>
+			<ymax>1046</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>298</xmin>
+			<xmax>333</xmax>
+			<ymin>1050</ymin>
+			<ymax>1062</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dentex dentex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>917</xmin>
+			<xmax>988</xmax>
+			<ymin>588</ymin>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

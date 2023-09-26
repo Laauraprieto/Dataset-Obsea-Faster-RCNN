@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>20230918-083001-IPC608_8B64_165_jpg.rf.4afe89d52e0828d8a6a80e229fbc05b3.jpg</filename>
+	<path>20230918-083001-IPC608_8B64_165_jpg.rf.4afe89d52e0828d8a6a80e229fbc05b3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dentex dentex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>958</xmin>
+			<xmax>1159</xmax>
+			<ymin>497</ymin>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus vulgaris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1384</xmin>
+			<xmax>1403</xmax>
+			<ymin>803</ymin>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>
