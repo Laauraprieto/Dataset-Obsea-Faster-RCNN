@@ -1,0 +1,105 @@
+<annotation>
+	<folder></folder>
+	<filename>20230807-093037-IPC608_8B64_165_jpg.rf.91598e6774bfdc90017a0356ce432ea4.jpg</filename>
+	<path>20230807-093037-IPC608_8B64_165_jpg.rf.91598e6774bfdc90017a0356ce432ea4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1310</xmin>
+			<xmax>1512</xmax>
+			<ymin>472</ymin>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1285</xmin>
+			<xmax>1338</xmax>
+			<ymin>49</ymin>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1370</xmin>
+			<xmax>1481</xmax>
+			<ymin>16</ymin>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>762</xmin>
+			<xmax>855</xmax>
+			<ymin>272</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>556</xmin>
+			<xmax>640</xmax>
+			<ymin>142</ymin>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>602</xmin>
+			<xmax>706</xmax>
+			<ymin>426</ymin>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>74</xmax>
+			<ymin>865</ymin>
+			<ymax>955</ymax>
+		</bndbox>
+	</object>
+</annotation>

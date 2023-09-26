@@ -1,0 +1,79 @@
+<annotation>
+	<folder></folder>
+	<filename>20230818-170036-IPC608_8B64_165_jpg.rf.d1313ff395ddf4ad61618f0d359f62de.jpg</filename>
+	<path>20230818-170036-IPC608_8B64_165_jpg.rf.d1313ff395ddf4ad61618f0d359f62de.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diplodus cervinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1428</xmin>
+			<xmax>1506</xmax>
+			<ymin>631</ymin>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus cervinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1430</xmin>
+			<xmax>1499</xmax>
+			<ymin>697</ymin>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus cervinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1495</xmin>
+			<xmax>1598</xmax>
+			<ymin>642</ymin>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1594</xmin>
+			<xmax>1685</xmax>
+			<ymin>583</ymin>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sparus aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1754</xmin>
+			<xmax>1893</xmax>
+			<ymin>575</ymin>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

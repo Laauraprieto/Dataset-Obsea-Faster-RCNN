@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>20230815-110036-IPC608_8B64_165_jpg.rf.0ccfd10ef58bfdbdfb001878c828e4ee.jpg</filename>
+	<path>20230815-110036-IPC608_8B64_165_jpg.rf.0ccfd10ef58bfdbdfb001878c828e4ee.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>404</xmax>
+			<ymin>483</ymin>
+			<ymax>658</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>510</xmin>
+			<xmax>573</xmax>
+			<ymin>630</ymin>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>474</xmin>
+			<xmax>520</xmax>
+			<ymin>799</ymin>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1187</xmin>
+			<xmax>1238</xmax>
+			<ymin>306</ymin>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

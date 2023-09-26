@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>20230810-070036-IPC608_8B64_165_jpg.rf.aa9db25af08b60abe6b33f38c5d5ca3f.jpg</filename>
+	<path>20230810-070036-IPC608_8B64_165_jpg.rf.aa9db25af08b60abe6b33f38c5d5ca3f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diplodus cervinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1380</xmin>
+			<xmax>1458</xmax>
+			<ymin>774</ymin>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>920</xmin>
+			<xmax>963</xmax>
+			<ymin>755</ymin>
+			<ymax>788</ymax>
+		</bndbox>
+	</object>
+</annotation>
