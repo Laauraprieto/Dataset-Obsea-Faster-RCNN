@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20230831-060036-IPC608_8B64_165_jpg.rf.aaec9ad35cb8756de0dfd35ba9ff4c2e.jpg</filename>
+	<path>20230831-060036-IPC608_8B64_165_jpg.rf.aaec9ad35cb8756de0dfd35ba9ff4c2e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Serranus cabrilla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>426</xmin>
+			<xmax>472</xmax>
+			<ymin>848</ymin>
+			<ymax>925</ymax>
+		</bndbox>
+	</object>
+</annotation>

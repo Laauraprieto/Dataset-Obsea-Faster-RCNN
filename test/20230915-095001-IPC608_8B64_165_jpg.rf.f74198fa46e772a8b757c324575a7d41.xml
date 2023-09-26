@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>20230915-095001-IPC608_8B64_165_jpg.rf.f74198fa46e772a8b757c324575a7d41.jpg</filename>
+	<path>20230915-095001-IPC608_8B64_165_jpg.rf.f74198fa46e772a8b757c324575a7d41.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>330</xmin>
+			<xmax>488</xmax>
+			<ymin>980</ymin>
+			<ymax>1041</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mullus surmuletus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1148</xmin>
+			<xmax>1206</xmax>
+			<ymin>1044</ymin>
+			<ymax>1074</ymax>
+		</bndbox>
+	</object>
+</annotation>

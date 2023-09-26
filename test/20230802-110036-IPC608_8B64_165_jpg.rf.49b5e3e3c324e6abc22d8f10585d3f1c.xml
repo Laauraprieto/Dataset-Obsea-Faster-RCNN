@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>20230802-110036-IPC608_8B64_165_jpg.rf.49b5e3e3c324e6abc22d8f10585d3f1c.jpg</filename>
+	<path>20230802-110036-IPC608_8B64_165_jpg.rf.49b5e3e3c324e6abc22d8f10585d3f1c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Serranus cabrilla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>658</xmin>
+			<xmax>696</xmax>
+			<ymin>859</ymin>
+			<ymax>883</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1470</xmin>
+			<xmax>1513</xmax>
+			<ymin>480</ymin>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>
