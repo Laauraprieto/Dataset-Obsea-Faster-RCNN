@@ -1,0 +1,79 @@
+<annotation>
+	<folder></folder>
+	<filename>20230821-093036-IPC608_8B64_165_jpg.rf.69b98837ce0520cfd7eb955ff5e7cdc5.jpg</filename>
+	<path>20230821-093036-IPC608_8B64_165_jpg.rf.69b98837ce0520cfd7eb955ff5e7cdc5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1472</xmin>
+			<xmax>1537</xmax>
+			<ymin>123</ymin>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>290</xmin>
+			<xmax>360</xmax>
+			<ymin>423</ymin>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>127</xmin>
+			<xmax>197</xmax>
+			<ymin>279</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>160</xmax>
+			<ymin>866</ymin>
+			<ymax>1033</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>91</xmin>
+			<xmax>208</xmax>
+			<ymin>1041</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>
