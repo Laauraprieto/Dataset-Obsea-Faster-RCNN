@@ -1,0 +1,31 @@
+# Images and labels direcotry should be relative to train.py
+TRAIN_DIR_IMAGES: /srv/fasterrcnn-pytorch-training-pipeline/data/obsea/train
+TRAIN_DIR_LABELS: /srv/fasterrcnn-pytorch-training-pipeline/data/obsea/train
+# VALID_DIR should be relative to train.py
+VALID_DIR_IMAGES: /srv/fasterrcnn-pytorch-training-pipeline/data/obsea/valid
+VALID_DIR_LABELS: /srv/fasterrcnn-pytorch-training-pipeline/data/obsea/valid
+
+# Class names.
+
+CLASSES: [
+    '__background__',
+    'Chromis chromis', 
+    'Coris julis', 
+    'Dentex dentex', 
+    'Diplodus cervinus', 
+    'Diplodus puntazzo', 
+    'Diplodus sargus',
+    'Diplodus ssp', 
+    'Diplodus vulgaris', 
+    'Mullus surmuletus', 
+    'Seriola dumerili',
+    'Serranus cabrilla',
+    'Sparus aurata',
+    'unknown'
+]
+
+# Number of classes (object classes + 1 for background class in Faster RCNN).
+NC: 14
+
+# Whether to save the predictions of the validation set while training.
+SAVE_VALID_PREDICTION_IMAGES: True
