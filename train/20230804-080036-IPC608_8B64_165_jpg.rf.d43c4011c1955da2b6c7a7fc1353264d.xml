@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>20230804-080036-IPC608_8B64_165_jpg.rf.d43c4011c1955da2b6c7a7fc1353264d.jpg</filename>
+	<path>20230804-080036-IPC608_8B64_165_jpg.rf.d43c4011c1955da2b6c7a7fc1353264d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1491</xmin>
+			<xmax>1610</xmax>
+			<ymin>273</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus cervinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1484</xmin>
+			<xmax>1559</xmax>
+			<ymin>338</ymin>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus cervinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1776</xmin>
+			<xmax>1862</xmax>
+			<ymin>407</ymin>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus sargus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1474</xmin>
+			<xmax>1520</xmax>
+			<ymin>399</ymin>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

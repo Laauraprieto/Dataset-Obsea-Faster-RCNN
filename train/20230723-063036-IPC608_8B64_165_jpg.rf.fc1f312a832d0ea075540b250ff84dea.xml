@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>20230723-063036-IPC608_8B64_165_jpg.rf.fc1f312a832d0ea075540b250ff84dea.jpg</filename>
+	<path>20230723-063036-IPC608_8B64_165_jpg.rf.fc1f312a832d0ea075540b250ff84dea.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1617</xmin>
+			<xmax>1653</xmax>
+			<ymin>786</ymin>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1760</xmin>
+			<xmax>1777</xmax>
+			<ymin>831</ymin>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>69</xmax>
+			<ymin>448</ymin>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>399</xmin>
+			<xmax>415</xmax>
+			<ymin>758</ymin>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>
