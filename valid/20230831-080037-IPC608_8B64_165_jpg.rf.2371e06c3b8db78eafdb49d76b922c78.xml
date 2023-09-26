@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>20230831-080037-IPC608_8B64_165_jpg.rf.2371e06c3b8db78eafdb49d76b922c78.jpg</filename>
+	<path>20230831-080037-IPC608_8B64_165_jpg.rf.2371e06c3b8db78eafdb49d76b922c78.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
