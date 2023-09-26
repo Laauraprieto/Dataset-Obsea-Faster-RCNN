@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>20230920-084001-IPC608_8B64_165_jpg.rf.6eba886dcad7076230eb69bee141efdb.jpg</filename>
+	<path>20230920-084001-IPC608_8B64_165_jpg.rf.6eba886dcad7076230eb69bee141efdb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>588</xmin>
+			<xmax>1413</xmax>
+			<ymin>95</ymin>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chromis chromis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>127</xmax>
+			<ymin>305</ymin>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coris julis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>841</xmin>
+			<xmax>901</xmax>
+			<ymin>994</ymin>
+			<ymax>1023</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diplodus vulgaris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>855</xmin>
+			<xmax>885</xmax>
+			<ymin>824</ymin>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>
